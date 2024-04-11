@@ -21,9 +21,13 @@ This Python script generates the Indian flag using the `turtle` module. It creat
 
 ## Sample Output
 
-![Indian Flag](indian_flag_drawing_using_python_turtle)
+![Indian Flag]
 
+## Copyright
 
+This project is protected by copyright law and may not be redistributed or modified without the explicit consent of the project maintainer.
+
+For any questions or inquiries regarding the use of this project, please contact the project maintainer.
 
 ---
 
