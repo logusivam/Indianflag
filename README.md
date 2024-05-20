@@ -19,9 +19,7 @@ This Python script generates the Indian flag using the `turtle` module. It creat
 - Simple and lightweight script to generate the Indian flag.
 - Customizable flag dimensions and proportions.
 
-## Sample Output
 
-![Indian Flag]
 
 ## Copyright
 
