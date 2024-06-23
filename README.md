@@ -13,6 +13,7 @@ This Python script generates the Indian flag using the `turtle` module. It creat
 
 - Python 3.x
 - turtle module (pre-installed with Python)
+- vs code or PyCharm 
 
 ## Features
 
